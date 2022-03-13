@@ -1,0 +1,2 @@
+Link instalação
+https://docs.github.com/pt/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop
